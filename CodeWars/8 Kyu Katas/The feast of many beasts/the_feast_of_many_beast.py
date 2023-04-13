@@ -1,11 +1,14 @@
 def feast(beast, dish):
-    """
-    Return True or False if first and last letter
-    of beast is the same as dish or not.
+    """ Check to see whether the first and last letters of the beast
+    match the first and last letters of the dish to see if the beast
+    can bring that dish or not.
+
     Args:
-        beast (str): Input a name of the beast
-        dish (str): Input a name of the dish
+        beast (str): Input the beast name
+        dish (_str): Input the dish name
+
+    Returns:
+        str: Return results
     """
 
-    return beast[0] is dish[0] and beast[-1] is dish[-1]\
-        
+    return beast[0] is dish[0] and beast[-1] is dish[-1]

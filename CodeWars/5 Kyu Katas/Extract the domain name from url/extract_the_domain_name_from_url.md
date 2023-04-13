@@ -16,10 +16,13 @@
 
 ```python
 def domain_name(url):
-    """
-    Return a domain name from specific url
+    """ Split domain name from url
+
     Args:
-        url (str): An url that neet to be split
+        url (str): Url
+
+    Returns:
+        str: Return domain name
     """
 
     return url.split("www.")[-1].split("//")[-1].split(".")[0]

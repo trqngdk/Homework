@@ -19,11 +19,13 @@ Note: Don't worry, all inputs will be strings, and every string is a perfectly v
 
 ```python
 def string_to_number(string):
-    """
-    Return a number from given string
+    """Return a number from the given string.
+
     Args:
-        string (str): Input string
+        string (str): String must be numbers.
+
+    Returns:
+        int: Return numbers.
     """
     return int(string)
-
 ```
