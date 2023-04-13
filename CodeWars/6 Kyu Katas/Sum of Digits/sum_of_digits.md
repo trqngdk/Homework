@@ -19,13 +19,14 @@ Given `n`, take the sum of the digits of `n`. If that value has more than one di
 
 ```python
 def digital_root(number):
-    """
-    Return digital root from a number.
-    Args:
-        number (int): A number that need to
-            be sum until it has only 1 digit left.
-    """
+    """ Sum up all digits in a number until it only has 1 digit.
 
+    Args:
+        number (int): Input a number
+
+    Returns:
+        int: Return digital root.
+    """
     sum_of_number = sum(map(int, str(number)))
     if sum_of_number > 9:
         return digital_root(sum_of_number)

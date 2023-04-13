@@ -1,8 +1,11 @@
 def count_smileys(arr):
-    """
-    Return the amount of smiley faces in an list/array
+    """ Count number of smiley faces
+
     Args:
-        arr (arr): An array of symbol (":), :D, :-),..)
+        arr (arr): Arrays of symbol (":)", ":D", ":-D",..)
+
+    Returns:
+        int: Return the amount of smiley face
     """
 
     smileys = []
