@@ -1,6 +1,6 @@
 # Homework
 
-[![CodeFactor](https://www.codefactor.io/repository/github/trqngdk/homework/badge)](https://www.codefactor.io/repository/github/trqngdk/homework)
+[![Maintainability](https://api.codeclimate.com/v1/badges/e8bd6a27ef2d2c6c863a/maintainability)](https://codeclimate.com/github/trqngdk/Homework/maintainability)[![CodeFactor](https://www.codefactor.io/repository/github/trqngdk/homework/badge)](https://www.codefactor.io/repository/github/trqngdk/homework)
 
 ## **Brief introduction**
 
