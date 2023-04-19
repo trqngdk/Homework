@@ -14,9 +14,12 @@ This is a Github repository to host my solution to basic algorithm, string, math
 3. [directories](#directories)
 
 ## **Directories**
-
+- [CodeWars](./CodeWars)
+  - [5 Kyu Katas](./CodeWars/5 Kyu Katas)
+  - [6 Kyu Katas](./CodeWars/6 Kyu Katas)
+  - [7 Kyu Katas](./CodeWars/7 Kyu Katas)
 - [VNOI](./VNOI)
   - [algorithm](./VNOI/algo)
   - [math](./VNOI/math)
   - [string](./VNOI/string)
-    - [eratosthenes sieve](.VNOI/string/sieve_prime_number.py)
+    - [eratosthenes sieve](./VNOI/string/sieve_prime_number.py)
