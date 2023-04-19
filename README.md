@@ -15,7 +15,8 @@ This is a Github repository to host my solution to basic algorithm, string, math
 
 ## **Directories**
 
-- [algorithm](./algo)
-- [math](./math)
-- [string](./string)
-  - [eratosthenes sieve](./SievePrime.py)
+- [VNOI] (./VNOI)
+  - [algorithm](./algo)
+  - [math](./math)
+  - [string](./string)
+    - [eratosthenes sieve](./sieve_prime_number.py)
