@@ -14,12 +14,12 @@ This is a Github repository to host my solution to basic algorithm, string, math
 3. [directories](#directories)
 
 ## **Directories**
-- [CodeWars](./CodeWars)
-  - [5 Kyu Katas](./CodeWars/5-Kyu-Katas)
-  - [6 Kyu Katas](./CodeWars/6-Kyu-Katas)
-  - [7 Kyu Katas](./CodeWars/7-Kyu-Katas)
-  - [8 Kyu Katas](./CodeWars/8-Kyu-Katas)
-- [VNOI](./VNOI)
+- [codewars](./CodeWars)
+  - [5 kyu katas]("./CodeWars/5%20Kyu%20Katas")
+  - [6 kyu katas](./CodeWars/6%20Kyu%20Katas)
+  - [7 kyu katas](./CodeWars/7%20Kyu%20Katas)
+  - [8 kyu katas](./CodeWars/8%20Kyu%20Katas)
+- [vnoi](./VNOI)
   - [algorithm](./VNOI/algorithm)
   - [math](./VNOI/math)
   - [string](./VNOI/string)
